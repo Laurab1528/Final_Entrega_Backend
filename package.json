@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "autocannon": "7.9.0",
+    "axios": "0.27.2",
     "bcrypt": "5.0.1",
     "bcryptjs": "^2.4.3",
     "compression": "1.7.4",
@@ -34,15 +35,15 @@
     "eslint": "8.13.0",
     "jest": "28.1.3"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Laurab1528/Performance.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Laurab1528/Performance/issues"
-  },
-  "homepage": "https://github.com/Laurab1528/Performance#readme",
   "directories": {
     "test": "test"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laurab1528/Test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Laurab1528/Test/issues"
+  },
+  "homepage": "https://github.com/Laurab1528/Test#readme"
 }
